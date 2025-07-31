@@ -33,8 +33,8 @@
 ## 📫 Connect With Me
 
 - 📧 Email: mugilan.softdev@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/mukilan-r-38609627a/)
-- 🌐 Portfolio: [your-portfolio.com](https://my-app-self-zeta.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/mukilan](https://www.linkedin.com/in/mukilan-r-38609627a/)
+- 🌐 Portfolio: [Mukilan-portfolio.com](https://my-app-self-zeta.vercel.app/)
 
 ---
 
