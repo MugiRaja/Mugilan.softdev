@@ -32,7 +32,7 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: mugilan.softdev@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/mukilan-r-38609627a/)
 - 🌐 Portfolio: [your-portfolio.com](https://my-app-self-zeta.vercel.app/)
 
