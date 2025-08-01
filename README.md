@@ -11,7 +11,7 @@
 - 🌐 Frontend: React.js, Next.js, Tailwind CSS
 - 🛠 Backend: Node.js, Express.js, MongoDB
 - 🔐 Auth: JWT, OAuth
-- 📦 Tools: Git, GitHub, Postman, VS Code, Figma
+- 📦 Tools: Git, GitHub, Postman, VS Code
 
 ---
 
