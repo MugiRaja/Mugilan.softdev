@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Mukilan (MugiRaja)
+# 👋 Hi, I'm **Mugilan Softdev**  
+🚀 Full Stack Developer | MERN & Next.js | Clean code + Real-world builds
+
 
 🚀 Passionate Full Stack Developer (MERN Stack)  
 🎯 Currently focused on building scalable web applications and learning production-level architecture.
